@@ -1,0 +1,16 @@
+{
+  "teachers": [
+    {
+      "username": "principal.williams",
+      "password": "MergingtonHS2024!"
+    },
+    {
+      "username": "mr.johnson",
+      "password": "TeachCode123"
+    },
+    {
+      "username": "ms.garcia",
+      "password": "Activities2024"
+    }
+  ]
+}
